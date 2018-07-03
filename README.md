@@ -1,2 +1,0 @@
-# TestingReactRedux
-Created with CodeSandbox
