@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import Welcome from "./Welcome";
 import NameInput from "./NameInput";
 
-import "./styles.css";
+import "../styles.css";
 
 class MainPage extends React.Component {
   constructor(props) {

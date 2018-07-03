@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import "./styles.css";
+import "../styles.css";
 
 class Welcome extends React.Component {
   constructor(props) {

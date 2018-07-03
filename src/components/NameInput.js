@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import "./styles.css";
+import "../styles.css";
 
 class NameInput extends React.Component {
   constructor(props) {
