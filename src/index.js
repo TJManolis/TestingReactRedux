@@ -6,5 +6,3 @@ import "./styles.css";
 
 const rootElement = document.getElementById("root");
 ReactDOM.render(<MainPage />, rootElement);
-
-// TESTING INT:OISDF:LKHLSKDJHFSKLJDHFLKJSDF
